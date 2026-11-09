@@ -38,7 +38,7 @@ Todo se calcula y se guarda en el navegador (IndexedDB). Solo si el usuario usa 
 
 ## Autoría
 
-Fernando Borrás Rocher (Universidad Miguel Hernández de Elche) y Cindy Carolina López Guerrero.
+Fernando Borrás Rocher (Universidad Miguel Hernández de Elche) y Cindy Carolina López Guerrero (Universidad Politécnica Estatal del Carchi (UPEC), Tulcán, Ecuador).
 
 A partir del programa analítico de Fisiología Animal (código 0811BFA5UB-AJ2025, Carrera de Agropecuaria, Facultad de Industrias Agropecuarias y Ciencias Ambientales, UPEC, Tulcán).
 
