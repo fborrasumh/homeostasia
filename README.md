@@ -38,15 +38,15 @@ Todo se calcula y se guarda en el navegador (IndexedDB). Solo si el usuario usa 
 
 ## Autoría
 
-Fernando Borrás Rocher (Universidad Miguel Hernández de Elche) y Hernán Rigoberto Benavides Rosales (Universidad Politécnica Estatal del Carchi (UPEC), Tulcán, Ecuador).
+Fernando Borrás Rocher (Universidad Miguel Hernández de Elche) y Cindy Carolina López Guerrero.
 
-A partir del programa analítico de Fisiología Animal (código 0811BFA5UB-AJ2025, Carrera de Agropecuaria, Facultad de Industrias Agropecuarias y Ciencias Ambientales, UPEC, Tulcán) elaborado por el docente Hernán Rigoberto Benavides Rosales.
+A partir del programa analítico de Fisiología Animal (código 0811BFA5UB-AJ2025, Carrera de Agropecuaria, Facultad de Industrias Agropecuarias y Ciencias Ambientales, UPEC, Tulcán).
 
-ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002-5519-4573) · Hernán Rigoberto Benavides Rosales [0009-0005-4934-6533](https://orcid.org/0009-0005-4934-6533)
+ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002-5519-4573) · Cindy Carolina López Guerrero [0009-0008-5036-8416](https://orcid.org/0009-0008-5036-8416)
 
 ## Cómo citar
 
-Borrás Rocher, F. y Benavides Rosales, H. (2026). *HomeostasIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23880777](https://doi.org/10.5281/zenodo.23880777)
+Borrás Rocher, F. y López Guerrero, C. (2026). *HomeostasIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23880777](https://doi.org/10.5281/zenodo.23880777)
 
 ## Licencia
 
